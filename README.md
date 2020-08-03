@@ -1,5 +1,5 @@
 # hactober-fest-2019-
-Open source is changing the world – one pull request at a time
+Open source is changing the world – one pull request at a time.
 
 
 
